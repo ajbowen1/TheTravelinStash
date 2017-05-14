@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">The Travelin Stash</string>
+    <string name="manuf">Manufacturer</string>
+    <string name="name">Name</string>
+    <string name="quant">Quantity on hand</string>
+    <string name="add">Add A Yarn</string>
+    <string name="edit">Edit A Yarn</string>
+    <string name="find">Find A Yarn</string>
+    <string name="view">View My Stash</string>
+    <string name="add2">Add to my stash</string>
+    <string name="find2">Find in my stash</string>
+    <string name="modify">Modify this yarn</string>
+    <string name="remove">Remove this yarn</string>
+    <string name="makeMod">Make modification</string>
+    <string name="unmod">You may not modify the name</string>
+    <string name="main">Main Menu</string>
+    <string name="man">Manufacturer</string>
+    <string name="c">Color</string>
+    <string name="ft">Fiber Type</string>
+    <string name="w">Weight</string>
+    <string name="noData">NO DATA TO DISPLAY</string>
+    <string name="info">SELECTED YARN INFORMATION</string>
+    <string name="findInst">Unselected fields return all yarns</string>
+    <string-array name="weights">
+        <item>Weight</item>
+        <item>Lace</item>
+        <item>Fingering</item>
+        <item>Sport</item>
+        <item>DK</item>
+        <item>Worsted</item>
+        <item>Chunky</item>
+        <item>Bulky</item>
+        <item>Super-Bulky</item>
+    </string-array>
+    <string-array name="types">
+        <item>Fiber Type</item>
+        <item>Single Protein</item>
+        <item>Multi-Protein</item>
+        <item>Single Plant</item>
+        <item>Multi-Plant</item>
+        <item>Protein-Plant Blend</item>
+        <item>Artificial</item>
+    </string-array>
+    <string-array name="colors">
+        <item>Color</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Violet/Purple</item>
+        <item>Black</item>
+        <item>Brown</item>
+        <item>White</item>
+        <item>Multi-colored</item>
+    </string-array>
+    <string-array name="col_header">
+        <item>Name</item>
+        <item>Color</item>
+        <item>Quantity</item>
+    </string-array>
+    <string name="success">Added yarn successfully!</string>
+    <string name="modded">Modified yarn successfully!</string>
+    <string name="rem">Removed yarn successfully!</string>
+    <string name="id">ID</string>
+
+</resources>

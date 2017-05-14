@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/yarn_nameTV"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="0.60"
+        android:padding="10dp"
+        android:text="@string/name" />
+
+    <TextView
+        android:id="@+id/yarn_colorTV"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:padding="10dp"
+        android:text="@string/c"
+        android:layout_weight="0.35" />
+
+    <TextView
+        android:id="@+id/yarn_quantTV"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:padding="10dp"
+        android:text="@string/quant" />
+
+</LinearLayout>
